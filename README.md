@@ -45,8 +45,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
 
-## Special Thanks to
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+* [`Saweria`](https://saweria.co/donate/KrisnaZx)
+5
